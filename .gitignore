@@ -1,13 +1,9 @@
-# Oversimplified .gitignore for academic purposes only @author: Joan Pont
+# Oversimplified .gitignore for academic purposes only. @author: Joan Pont
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 **/*.py[cod]
 ../*$py.class
-
-# IPython Notebook
-**/.ipynb_checkpoints/**
-*.ipynb
 
 # pyenv
 .python-version
@@ -38,7 +34,6 @@ ENV/
 *.RData
 *.Rhistory
 url.txt
-activitat.txt
 
 # Compressed files
 *.tar
